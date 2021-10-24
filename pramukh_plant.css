@@ -1,0 +1,79 @@
+body{ background-color:gray;
+    margin: 0;
+    margin-bottom: 1cm;
+    font-family: serif;
+    background-image:radial-gradient( rgb(183 78 132), hsl(66deg 26% 40% / 58%) )
+}
+.div1{font-style: oblique;
+    text-align: center;
+    background-color: #87bb3e75;
+    border-radius: 1cm;
+    size: 2cm;
+    margin-bottom: .5cm;
+    margin-top: .25cm;
+    
+}
+h3{
+    font-size: small;
+}
+h2{
+    font-size: medium;
+    margin-top: 20px;   
+}
+h1{ 
+    background-color: darkmagenta;
+}
+#s1{
+padding-top: 10px;
+}
+#box1{
+    background-color: rgb(235, 214, 130);
+    border-radius: 10px;
+    border-color: black;
+    font-size: small;
+    color: black;
+    padding:5px;
+    padding-right: 15px;
+    
+}
+.div2{
+    border-radius: 1cm;
+    size: 10cm;
+    background-color:rgb(220 227 173 / 43%);
+    padding-bottom: 1cm;
+    
+}
+.button{
+    text-align: center;
+    font-size: small;
+    border-radius:3mm;
+    margin-top: 1cm;
+    margin-left: 3mm;
+    background-color: rgb(203, 193, 230);
+    
+}
+.button:hover {
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #4680bf;
+  }
+.button:visited{
+      color: brown;
+  }
+#regular_plant{
+   margin-left: 25%;
+   background-color:  rgb(247, 247, 247);;
+}
+.data1{
+    border:1px solid rgb(15, 13, 128);
+    padding:5px;
+    text-align: center;
+}
+#ganesh_sales{
+    margin-left: 25%;
+    background-color: rgb(247, 247, 247);
+}
+#jio_plant{
+    margin-left: 25%;
+    margin-top: .7cm;
+    background-color: rgb(247, 247, 247);
+}
